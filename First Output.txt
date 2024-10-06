@@ -1,0 +1,6 @@
+Chicken_Noodle_Soup = 0.0
+Chobani_Yogurt = 0.0
+Clif_Bar = 40.019057
+Cobb_Salad = 0.0
+Protein_Shake = 25.534381
+OPT =  163.319214233
